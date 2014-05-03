@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+Celfiles/
+data/
+GSE20437/
+GSE31519/
+diseased_data/
+healthy_data/
+results.txt
+
